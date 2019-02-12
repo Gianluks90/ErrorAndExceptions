@@ -1,3 +1,3 @@
-# ErrorAndExceptions
+# ErrorsAndExceptions
 
 ✌🏻 Argomento da esporre;
