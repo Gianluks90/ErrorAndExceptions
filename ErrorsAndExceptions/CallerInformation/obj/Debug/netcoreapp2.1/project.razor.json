@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "/Users/gianluca/Downloads/ProfessionalCSharp7-master/ErrorsAndExceptions/ErrorsAndExceptions/CallerInformation/CallerInformation.csproj",
+  "TargetFramework": "netcoreapp2.1",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}
